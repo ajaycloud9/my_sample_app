@@ -1,2 +1,2 @@
-def print_my_name_1 ():
-    print ("Hello I am Ajay")
+def solarsystem ():
+    print ("Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.")

@@ -1,6 +1,6 @@
 
-from python_pack.package1.pack_one import print_my_name_1
-from python_pack.package2.pack_two import print_my_name_2
+from python_pack.package1.pack_one import solarsystem
+from python_pack.package2.pack_two import print_my_name
 
 def main():
     print_my_name_1()
