@@ -1,4 +1,0 @@
-python_pack.egg-info/PKG-INFO
-python_pack.egg-info/SOURCES.txt
-python_pack.egg-info/dependency_links.txt
-python_pack.egg-info/top_level.txt
