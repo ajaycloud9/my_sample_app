@@ -5,6 +5,12 @@ setup(
     description='Step 1 tutorial',
     url = 'https://github.com/ajaycloud9/my_sample_app.git',
     author_email='singh.ajay@husky.neu.edu',
-    packages=find_packages()
+    packages=find_packages(),
+    install_required=['colored'],
+    entry_points={
+        'console_scripts': [
+            'solarsystem=python_pack.test.sample_app:main'
+        ]
+    }
 
 )
